@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a 3rd year Computer Science major at UCI!  
+I'm a 4th year Computer Science major at UCI!  
 Check out my [LinkedIn](https://www.linkedin.com/in/junekimuci/)!
 <!--
 **juneyk1/juneyk1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
